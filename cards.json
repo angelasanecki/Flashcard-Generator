@@ -1,0 +1,59 @@
+
+
+[
+
+
+	{
+
+
+ 	"front":"in what country is Paris located?",
+ 	"back":"France"
+
+
+
+	},
+
+
+ 	{
+
+	"front": "In what country is Washington D.C. located?",
+	"back": "United States"
+
+	},
+
+	{
+		"front": "In what country is Santiago located?",
+		"back": "Chile"
+
+
+
+	},
+
+	{
+		"front": "In what country is Bogota located?",
+		"back": "Columbia"
+
+
+
+	},
+
+		{
+		"front": "In what country is Quito located?",
+		"back": "Ecuador"
+
+
+
+	},
+
+	{
+	     "front": "In what country is La Paz located?",
+		"back": "Bolivia "
+
+
+
+	}
+
+
+
+
+]

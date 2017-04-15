@@ -1,0 +1,63 @@
+
+
+[
+
+
+	{
+
+
+ 		"fullText":"Beirut is the capital of Lebanon",
+ 		"clozeDeletion":"Beirut"
+
+
+	},
+
+
+ 	{
+	
+
+ 		"fullText":"Bern is the capital of Switzerland",
+ 		"clozeDeletion":"Bern"
+
+	},
+
+	{
+		
+
+ 		"fullText":"Accra is the capital of Ghana",
+ 		"clozeDeletion":"Accra"
+
+
+	},
+
+	{
+		
+
+ 		"fullText":"Tokyo is the capital of Japan",
+ 		"clozeDeletion":"Tokyo"
+
+
+	},
+
+		{
+		
+
+ 		"fullText":"Bangkok is the capital of Thailand",
+ 		"clozeDeletion":"Bangkok"
+
+
+	},
+
+	{
+	     
+
+ 		"fullText":"Ankara is the capital of Turkey",
+ 		"clozeDeletion":"Ankara"
+
+
+	}
+
+
+
+
+]
